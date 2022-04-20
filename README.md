@@ -1,3 +1,4 @@
-# game
+# to install my game you need
 
-pip install pygame/nall of this files in one folder
+* all of this files in one folder
+* pip install pygame
