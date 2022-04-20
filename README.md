@@ -1,4 +1,3 @@
 # game
 
-pip install pygame
-all of this files in one folder
+pip install pygame\nall of this files in one folder
